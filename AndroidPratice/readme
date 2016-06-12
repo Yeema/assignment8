@@ -1,0 +1,8 @@
+In this assignment
+I merely followed TA's hints on PDF or the line in code.
+Besides,I added some lines in the provided ServerSample as the approach as we have practiced in previous lab or assignment
+and I copy the yellow duck's server IU to display the connecting state on a textarea with scroll in this assignment.
+As for AndroidPractice,
+I added the layout for connecting with server and some code about connecting with IP and after connecting ,we can start to calculate.
+The difficulty:
+the biggest trouble I encountered was to understand the code TA had provided,after comprehending them,it wasn't difficult to finish the code. 
